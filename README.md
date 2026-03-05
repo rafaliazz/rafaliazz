@@ -66,6 +66,4 @@
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rafaliazz/rafaliazz/output/pacman-contribution-graph.svg">
-</p>
+<img src="https://raw.githubusercontent.com/rafaliazz/rafaliazz/output/pacman-contribution-graph.svg">
