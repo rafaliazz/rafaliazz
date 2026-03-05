@@ -65,5 +65,3 @@
 ---
 
 </div>
-
-<img src="https://raw.githubusercontent.com/rafaliazz/rafaliazz/output/pacman-contribution-graph.svg">
