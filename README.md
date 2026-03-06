@@ -15,16 +15,16 @@
 
 ---
 
-## ✧ About Me
-- 🎓 Data Science & AI graduate from **Maastricht University**
-- 🤖 AI trainer & annotator for advanced LLM models
-- 👁️ Currently focused on **Computer Vision** and **Agentic AI** mixed with real-world applications
-- 🧩 Interested in solving complex problems through **data, algorithms, and experimentation**
-- 🚀 Exploring ideas at the intersection of **AI, software engineering, and real-world systems**
+## About Me
+✦ Data Science & AI graduate from **Maastricht University**  
+✧ AI trainer & annotator for **advanced LLM models**  
+✶ Focused on **Computer Vision** and **Agentic AI**  
+✹ Solving complex problems through **data & algorithms**  
+✺ Exploring the frontier of **AI and real-world systems**
 
 ---
 
-## ✶ Tech Stack
+## Tech Stack
 
 ### ✹ Languages & Core Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -60,7 +60,7 @@
 
 ---
 
-## ✦ GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafaliazz&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -76,7 +76,7 @@
 
 ---
 
-## ✧ Connect with me!
+## Connect with me!
 
 <p align="left">
 
