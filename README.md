@@ -54,7 +54,7 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
 
-#### 📞 Connect with me!
+## 📞 Connect with me!
 
 <p align="left">
 
