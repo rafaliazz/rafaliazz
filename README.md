@@ -93,13 +93,3 @@
 </a>
 
 </p>
-
-<a href="https://www.linkedin.com/in/rafali-arfan-427bb9248/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/+628131084478">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-</p>
