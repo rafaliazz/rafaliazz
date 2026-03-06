@@ -6,8 +6,10 @@
 
 # ✦ Rafali Azzam Arfan ✦
 
-### *The stars do not submit to those who merely watch;*  
-### *the universe belongs to the one who dares to command it.*
+### *For as long as human history goes on, the past will continue to accumulate*  
+### *History isn't just records of the past*
+### *It's also proof that civilization has continued to advance to the present*
+### *Our present civilization is the result of our past*
 
 </div>
 
